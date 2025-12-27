@@ -1,0 +1,85 @@
+{
+    "nav": {
+        "home": "Beranda",
+        "about": "Tentang Kami",
+        "services": "Layanan",
+        "contact": "Kontak"
+    },
+    "hero": {
+        "title": "Fondasi Digital untuk Bisnis Anda",
+        "subtitle": "Kami membangun fondasi yang kokoh untuk bisnis Anda melalui teknologi, kreativitas, dan strategi yang tepat",
+        "cta": "Mulai Bangun Bersama Kami"
+    },
+    "intro": {
+        "title": "Membangun Fondasi yang Kokoh",
+        "paragraph1": "<strong>Fondasi</strong> adalah creative agency yang berfokus pada pembangunan fondasi bisnis yang solid. Kami percaya bahwa setiap bisnis yang sukses dimulai dari fondasi yang kuat.",
+        "paragraph2": "Dari teknologi hingga kreativitas, kami menyediakan solusi terintegrasi untuk mengembangkan bisnis Anda. Setiap layanan dirancang untuk memperkuat posisi brand Anda di pasar digital.",
+        "paragraph3": "Bersama kami, bisnis Anda tidak hanya bertahan—tetapi berkembang."
+    },
+    "services": {
+        "title": "Layanan Kami",
+        "subtitle": "Solusi terintegrasi untuk membangun fondasi bisnis yang solid",
+        "items": {
+            "website": {
+                "title": "Website Development",
+                "description": "Membangun arsitektur web yang cepat dan presisi. Perpaduan estetika visual dan fungsionalitas untuk fondasi bisnis digital yang kokoh."
+            },
+            "mobile": {
+                "title": "Mobile Development",
+                "description": "Aplikasi responsif untuk iOS dan Android. Kami mengubah ide menjadi pengalaman genggam yang intuitif dan berkinerja tinggi."
+            },
+            "media": {
+                "title": "Media Production",
+                "description": "Visual bercerita yang memikat mata. Produksi foto dan video sinematik untuk memperkuat karakter dan pesan brand Anda."
+            },
+            "design": {
+                "title": "Design Branding",
+                "description": "Menciptakan identitas yang tak lekang waktu. Desain visual strategis yang membuat brand Anda tampil beda dan mudah diingat."
+            },
+            "social": {
+                "title": "Social Media Management",
+                "description": "Membangun interaksi, bukan sekadar angka. Strategi konten terukur untuk menghubungkan brand Anda dengan audiens yang tepat."
+            }
+        }
+    },
+    "contact": {
+        "title": "Siap Membangun?",
+        "subtitle": "Mari diskusikan visi Anda",
+        "cta": "Hubungi Kami",
+        "email": "Atau email kami langsung di",
+        "form": {
+            "title": "Mari Berbicara",
+            "subtitle": "Ceritakan tentang proyek Anda dan kami akan membantu mewujudkannya",
+            "name": "Nama Lengkap",
+            "namePlaceholder": "John Doe",
+            "email": "Email",
+            "emailPlaceholder": "john@example.com",
+            "phone": "Nomor Telepon",
+            "phonePlaceholder": "+62 812 3456 7890",
+            "service": "Layanan yang Diminati",
+            "servicePlaceholder": "Pilih Layanan",
+            "serviceOptions": {
+                "website": "Website Development",
+                "mobile": "Mobile Development",
+                "media": "Media Production",
+                "design": "Design Branding",
+                "social": "Social Media Management",
+                "other": "Lainnya"
+            },
+            "message": "Pesan",
+            "messagePlaceholder": "Ceritakan tentang proyek Anda...",
+            "submit": "Kirim Pesan",
+            "submitting": "Mengirim...",
+            "success": "Terima Kasih!",
+            "successMessage": "Kami akan segera menghubungi Anda"
+        }
+    },
+    "footer": {
+        "tagline": "Fondasi untuk Bisnis yang Berkembang",
+        "quickLinks": "Quick Links",
+        "followUs": "Ikuti Kami",
+        "copyright": "Fondasi Creative Agency. All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+    }
+}

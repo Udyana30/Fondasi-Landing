@@ -1,0 +1,85 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Digital Foundation for Your Business",
+        "subtitle": "We build a solid foundation for your business through technology, creativity, and the right strategy",
+        "cta": "Start Building With Us"
+    },
+    "intro": {
+        "title": "Building a Solid Foundation",
+        "paragraph1": "<strong>Fondasi</strong> is a creative agency focused on building solid business foundations. We believe that every successful business starts with a strong foundation.",
+        "paragraph2": "From technology to creativity, we provide integrated solutions to grow your business. Every service is designed to strengthen your brand's position in the digital market.",
+        "paragraph3": "With us, your business doesn't just survive—it thrives."
+    },
+    "services": {
+        "title": "Our Services",
+        "subtitle": "Integrated solutions to build a solid business foundation",
+        "items": {
+            "website": {
+                "title": "Website Development",
+                "description": "Engineering high-performance, scalable websites. We blend minimalist aesthetics with robust technology to turn visitors into loyal clients."
+            },
+            "mobile": {
+                "title": "Mobile Development",
+                "description": "Seamless experiences on iOS and Android. We build intuitive, responsive applications designed to keep your users connected anywhere."
+            },
+            "media": {
+                "title": "Media Production",
+                "description": "Visual storytelling that captures attention. Cinematic photography and videography crafted to elevate your brand's narrative."
+            },
+            "design": {
+                "title": "Design Branding",
+                "description": "Forging a distinct visual character. We create timeless identities and systems that communicate your values at a glance."
+            },
+            "social": {
+                "title": "Social Media Management",
+                "description": "Turning audiences into communities. Data-driven strategies and curated content to ensure your voice resonates across every channel."
+            }
+        }
+    },
+    "contact": {
+        "title": "Ready to Build?",
+        "subtitle": "Let's discuss your vision",
+        "cta": "Get in Touch",
+        "email": "Or email us directly at",
+        "form": {
+            "title": "Let's Talk",
+            "subtitle": "Tell us about your project and we'll help make it happen",
+            "name": "Full Name",
+            "namePlaceholder": "John Doe",
+            "email": "Email",
+            "emailPlaceholder": "john@example.com",
+            "phone": "Phone Number",
+            "phonePlaceholder": "+62 812 3456 7890",
+            "service": "Service of Interest",
+            "servicePlaceholder": "Select Service",
+            "serviceOptions": {
+                "website": "Website Development",
+                "mobile": "Mobile Development",
+                "media": "Media Production",
+                "design": "Design Branding",
+                "social": "Social Media Management",
+                "other": "Other"
+            },
+            "message": "Message",
+            "messagePlaceholder": "Tell us about your project...",
+            "submit": "Send Message",
+            "submitting": "Sending...",
+            "success": "Thank You!",
+            "successMessage": "We'll get back to you soon"
+        }
+    },
+    "footer": {
+        "tagline": "Foundation for Growing Business",
+        "quickLinks": "Quick Links",
+        "followUs": "Follow Us",
+        "copyright": "Fondasi Creative Agency. All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+    }
+}
